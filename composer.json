@@ -1,0 +1,16 @@
+{
+    "name": "mugaco/pack",
+    "authors": [
+        {
+            "name": "mugaco",
+            "email": "mg.jmanuel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mugaco\\Pack\\": "src"
+        }
+    }
+}
